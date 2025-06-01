@@ -164,7 +164,7 @@ pkg update -y && pkg install git p7zip -y && git clone https://github.com/CyberV
 
 📞 contact - `80767 76188`
 
-📞 Telegram Support:[@CyberVanshcoder]
+📞 Telegram Support: [@CyberVanshcoder]
 
 ## ⚠️ Legal Disclaimer
 
