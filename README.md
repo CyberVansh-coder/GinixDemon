@@ -75,10 +75,10 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 
 
 4. Launch WSL and update packages:
-
+```
 sudo apt update && sudo apt upgrade -y
 sudo apt install git python3 unzip p7zip-full -y
-
+```
 
 5. Clone GinixDemon:
 ```
@@ -143,6 +143,7 @@ pkg update -y && pkg install git p7zip -y && git clone https://github.com/CyberV
 ```
 
 
+
 ## 🧪 Compatible With
 
 ✅ Termux (Android)
@@ -158,6 +159,8 @@ pkg update -y && pkg install git p7zip -y && git clone https://github.com/CyberV
 > Price: ₹1499 INR / $18 USD
 🔐 One-time payment — Lifetime Access
 
+
+
 ## 🛒 How to Buy:
 
 ✉ Email - `notvansh6@gmail.com`
@@ -165,6 +168,8 @@ pkg update -y && pkg install git p7zip -y && git clone https://github.com/CyberV
 📞 contact - `80767 76188`
 
 📞 Telegram Support: [@CyberVanshcoder]
+
+
 
 ## ⚠️ Legal Disclaimer
 
@@ -175,9 +180,11 @@ Do not use this toolkit on unauthorized networks or systems. Use in labs, CTFs, 
 
 
 
+
 ## ⭐ Support
 
 If you find this useful, please give the repo a ⭐ on GitHub and share with other learners!
+
 
 
 
