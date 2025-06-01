@@ -23,11 +23,11 @@ if [ -f "GinixDemon.zip" ]; then
 fi
 
 # Run main launcher
-if [ -f "mai.py" ]; then
+if [ -f "main.py" ]; then
     echo "🚀 Launching GinixDemon..."
-    chmod +x mai.py
-    python3 mai.py
+    chmod +x main.py
+    python3 main.py
 else
-    echo "❌ Error: mai.py not found!"
+    echo "❌ Error: main.py not found!"
     exit 1
 fi
