@@ -47,7 +47,7 @@ cd GinixDemon
 #Start script to install system
 bash Install.sh
 ```
-# 🪟 Windows Installation (via WSL2)
+# > 🪟 Windows Installation (via WSL2)
 
 > Recommended for developers or students running Windows 10/11.
 
@@ -81,20 +81,20 @@ sudo apt install git python3 unzip p7zip-full -y
 
 
 5. Clone GinixDemon:
-
+```
 git clone https://github.com/CyberVansh-coder/GinixDemon
 cd GinixDemon
-
+```
 
 6. Extract and run:
-
+```
 7z x GinixDemon.7z || unzip GinixDemon.zip
 python3 main.py
-
+```
 ---
 > ⚠️ Make sure to install python3, 7z, and unzip beforehand.
 
-# 🐍 Kali Linux / Ubuntu / Debian Installation
+# > 🐍 Kali Linux / Ubuntu / Debian Installation
 
 > Works natively on both real and virtual environments (e.g. VirtualBox, VMWare)
 
@@ -110,30 +110,30 @@ Non-root user or sudo access
 🔧 Steps:
 
 1. Update system:
-
+```
 sudo apt update && sudo apt upgrade -y
-
+```
 
 2. Install dependencies:
-
+```
 sudo apt install git python3 unzip p7zip-full -y
-
+```
 
 3. Clone GinixDemon:
-
+```
 git clone https://github.com/CyberVansh-coder/GinixDemon
 cd GinixDemon
-
+```
 
 4. Extract toolkit archive:
-
+```
 7z x GinixDemon.7z || unzip GinixDemon.zip
-
+```
 
 5. Run main launcher:
-
+```
 python3 main.py
-
+```
 ---
 
 
