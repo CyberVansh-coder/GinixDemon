@@ -1,3 +1,15 @@
+# ✅ Clear screen and print ASCII banner
+clear
+echo "   _______       _      ____                                "
+echo "  / ____(_)___  (_)  __/ __ \___  ____ ___  ____  ____      "
+echo " / / __/ / __ \/ / |/_/ / / / _ \/ __ \`__ \/ __ \/ __ \     "
+echo "/ /_/ / / / / / />  </ /_/ /  __/ / / / / / /_/ / / / /     "
+echo "\____/_/_/ /_/_/_/|_/_____/\___/_/ /_/ /_/\____/_/ /_/      "
+echo "                                                           "
+echo "      🐍 GinixDemon | Ethical Hacking Toolkit 🧠"
+echo ""
+sleep 3
+
 # ✅ Step 1: Install dependencies
 echo "📦 Installing required packages..."
 pkg update -y
