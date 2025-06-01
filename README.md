@@ -154,7 +154,17 @@ pkg update -y && pkg install git p7zip -y && git clone https://github.com/CyberV
 ✅ WSL (Windows Subsystem for Linux)
 
 ---
+## 💼 GinixDemon — Full Toolkit (One-Time Purchase)
+> Price: ₹1499 INR / $18 USD
+🔐 One-time payment — Lifetime Access
 
+## 🛒 How to Buy:
+
+✉ Email - `notvansh6@gmail.com`
+
+📞 contact - `80767 76188`
+
+📞 Telegram Support:[@CyberVanshcoder]
 
 ## ⚠️ Legal Disclaimer
 
