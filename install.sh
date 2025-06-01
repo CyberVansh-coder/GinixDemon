@@ -1,32 +1,23 @@
-#!/bin/bash
+# ✅ Step 1: Install dependencies
+echo "📦 Installing required packages..."
+pkg update -y
+pkg install -y git python p7zip unzip
 
-clear
-echo "🔧 GinixDemon Auto Installer"
-echo "Cloning the repository from GitHub..."
+# ✅ Step 2: Extract 7z archive (with password)
+echo "📦 Extracting GinixDemon.7z..."
+7z x GinixDemon.7z -pGinixDemon80769210 -aoa
 
-# Clone the GitHub repo
-git clone https://github.com/CyberVansh-coder/GinixDemon.git || { echo "Git clone failed!"; exit 1; }
-
-# Enter the directory
-cd GinixDemon || { echo "GinixDemon directory not found!"; exit 1; }
-
-# Extract GinixDemon.7z if it exists
-if [ -f "GinixDemon.7z" ]; then
-    echo "📦 Extracting GinixDemon.7z..."
-    7z x GinixDemon.7z || { echo "Failed to extract 7z archive"; exit 1; }
-fi
-
-# Unzip GinixDemon.zip if it exists
+# ✅ Step 3: Optional unzip (if you also include a .zip)
 if [ -f "GinixDemon.zip" ]; then
     echo "📦 Unzipping GinixDemon.zip..."
-    unzip -o GinixDemon.zip || { echo "Failed to unzip archive"; exit 1; }
+    unzip -o GinixDemon.zip
 fi
 
-# Run main launcher
+# ✅ Step 4: Launch main.py
 if [ -f "main.py" ]; then
     echo "🚀 Launching GinixDemon..."
     chmod +x main.py
-    python3 main.py
+    python3 main.py || echo "❌ Failed to execute main.py"
 else
     echo "❌ Error: main.py not found!"
     exit 1
