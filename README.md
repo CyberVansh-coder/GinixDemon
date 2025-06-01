@@ -47,7 +47,7 @@ cd GinixDemon
 #Start script to install system
 bash Install.sh
 ```
-# > 🪟 Windows Installation (via WSL2)
+> # 🪟 Windows Installation (via WSL2)
 
 > Recommended for developers or students running Windows 10/11.
 
@@ -94,7 +94,7 @@ python3 main.py
 ---
 > ⚠️ Make sure to install python3, 7z, and unzip beforehand.
 
-# > 🐍 Kali Linux / Ubuntu / Debian Installation
+> # 🐍 Kali Linux / Ubuntu / Debian Installation
 
 > Works natively on both real and virtual environments (e.g. VirtualBox, VMWare)
 
