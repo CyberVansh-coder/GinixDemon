@@ -167,9 +167,10 @@ pkg update -y && pkg install git p7zip -y && git clone https://github.com/CyberV
 
 📞 contact - `80767 76188`
 
-📞 Telegram Support: [@CyberVanshcoder]
-
-
+ 📞 Telegram -
+ ```
+[@CyberVanshcoder](https://t.me/CyberVanshcoder)
+```
 
 ## ⚠️ Legal Disclaimer
 
@@ -178,15 +179,9 @@ pkg update -y && pkg install git p7zip -y && git clone https://github.com/CyberV
 🔥 Developer is not responsible for any misuse.
 Do not use this toolkit on unauthorized networks or systems. Use in labs, CTFs, or with permission.
 
-
-
-
 ## ⭐ Support
 
 If you find this useful, please give the repo a ⭐ on GitHub and share with other learners!
-
-
-
 
 ## 👨‍💻 Author
 
@@ -195,3 +190,8 @@ If you find this useful, please give the repo a ⭐ on GitHub and share with oth
 📧 Email: notvansh6@gmail.com
 
 🛡 Passionate about cybersecurity, ethical hacking, and Linux automation.
+
+<br>
+<p align="center">Made with ❤️ By CyberVansh-coder <a /
+"></a></p>
+<p align="center" style="font-size: 8px">v5.5 <a href="https://github.com/CyberVansh-coder/APKSNIPER">Credit!</a></p>
