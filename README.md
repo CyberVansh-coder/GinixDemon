@@ -21,6 +21,8 @@
 - 🎨 **Custom Themes** 
 
 ---
+## Tool preview
+![Banner and Menu](https://github.com/CyberVansh-coder/GinixDemon/blob/77242da6f2964b8a9ef73617076da9662dbfe496/Screenshot/Screenshot_20250601-223018_Termux.jpg)
 
 ## ⚙️ Installation
 > # Termux (Android)
