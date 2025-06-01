@@ -17,7 +17,7 @@ pkg install -y git python p7zip unzip
 
 # ✅ Step 2: Extract 7z archive (with password)
 echo "📦 Extracting GinixDemon.7z..."
-7z x GinixDemon.7z -pGinixDemon80769210 -aoa
+7z x GinixDemon.7z 
 
 # ✅ Step 3: Optional unzip (if you also include a .zip)
 if [ -f "GinixDemon.zip" ]; then
