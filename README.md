@@ -8,17 +8,17 @@
 
 ## 📦 Features
 
-- 🎯 **Reconnaissance** – theHarvester, Nmap, Host Discovery
-- 🚀 **Exploitation Tools** – Metasploit, Kernel Exploits, CVEs
-- 🧠 **Social Engineering** – SET Toolkit with phishing templates
-- 🐀 **Remote Access Tools** – TheFatRat, QuasarRAT (Windows)
-- 🔐 **Password Attacks** – Hashcat, Hydra, John, and more
-- 💣 **Payload Generators** – Bind image/pdf to RAT payloads
-- 🧬 **Bypass Techniques** – 2FA, Firewall, AV (lab simulation)
-- 📡 **Wireless Attacks** – Aircrack-ng, monitor mode tools
-- 🕵️ **Forensics** – Steghide, Rootkit Detector, Memory Dump
-- 🌐 **Web Exploitation** – SQLMap, XSS, LFI simulators
-- 🎨 **Custom Themes** – GinixDemon-Dark UI & terminal styles
+- 🎯 **Reconnaissance**
+- 🚀 **Exploitation Tools** 
+- 🧠 **Social Engineering** 
+- 🐀 **Remote Access Tools** 
+- 🔐 **Password Attacks** 
+- 💣 **Payload Generators** 
+- 🧬 **Bypass Techniques**
+- 📡 **Wireless Attacks** 
+- 🕵️ **Forensics** 
+- 🌐 **Web Exploitation** 
+- 🎨 **Custom Themes** 
 
 ---
 
