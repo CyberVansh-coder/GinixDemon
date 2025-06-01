@@ -22,7 +22,7 @@
 
 ---
 ## Tool preview
-![Banner and Menu](https://github.com/CyberVansh-coder/GinixDemon/blob/77242da6f2964b8a9ef73617076da9662dbfe496/Screenshot/Screenshot_20250601-223018_Termux.jpg)
+![Banner and Menu](https://github.com/CyberVansh-coder/GinixDemon/blob/0e03a4b2c5157c7e7a153483b9cd471dc1969d43/Screenshot/Screenshot_20250601-224742_Termux.jpg)
 
 ## ⚙️ Installation
 > # Termux (Android)
