@@ -34,11 +34,14 @@ termux-setup-storage
 #Install package git
 apt install git
 
-#clone this repository
-git clone https://github.com/mishakorzik/AllHackingTools
+#install package p7zip
+pkg install p7zip
 
-#cd to directory allhackingtools
-cd AllHackingTools
+#clone this repository
+git clone https://github.com/CyberVansh-coder/GinixDemon.git
+
+#cd to directory GinixDemon
+cd GinixDemon
 
 #Start script to install system
 bash Install.sh
