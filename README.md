@@ -26,4 +26,4 @@
 
 ### ✅ One-Line Install:
 ```bash
-pkg update -y && pkg install -y git && git clone https://github.com/CyberVansh-coder/GinixDemon.git && cd NeoDeskX && bash install.sh
+pkg update -y && pkg install git -y && git clone https://github.com/CyberVansh-coder/GinixDemon.git && cd NeoDeskX && bash install.sh
