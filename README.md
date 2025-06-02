@@ -200,4 +200,4 @@ If you find this useful, please give the repo a ⭐ on GitHub and share with oth
 <br>
 <p align="center">Made with ❤️ By CyberVansh-coder <a /
 "></a></p>
-<p align="center" style="font-size: 8px">v5.5 <a href="https://github.com/CyberVansh-coder/APKSNIPER">Credit!</a></p>
+<p align="center" style="font-size: 8px">v5.5 <a href="https://github.com/CyberVansh-coder/APKSNIPER">Repository!</a></p>
